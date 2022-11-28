@@ -10,3 +10,14 @@
 ### Полезные ссылки
 * [События](https://learn.javascript.ru/introduction-browser-events)
 * [Шаблонные сроки](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Template_literals)
+
+
+## День 2
+* Добавление плавного скролла, реализация кликов по табам и появления нужной картинки
+
+### Задачи
+> Повторить код за урокам
+### Домашняя работа
+> Реализовать смену заголовка при переключении таба (Скрытый заголовок)
+*[Циклы](https://learn.javascript.ru/while-for#tsikl-while)
+*[Условия](https://learn.javascript.ru/ifelse)
