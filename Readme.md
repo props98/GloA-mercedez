@@ -19,5 +19,6 @@
 > Повторить код за урокам
 ### Домашняя работа
 > Реализовать смену заголовка при переключении таба (Скрытый заголовок)
-*[Циклы](https://learn.javascript.ru/while-for#tsikl-while)
-*[Условия](https://learn.javascript.ru/ifelse)
+### Полезные ссылки
+* [Циклы](https://learn.javascript.ru/while-for#tsikl-while)
+* [Условия](https://learn.javascript.ru/ifelse)
