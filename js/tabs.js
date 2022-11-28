@@ -27,11 +27,10 @@ console.log(designTitle);
 
       });
 
+      //Todo: HoweWork
       // designTitle.forEach(title => {
       //   title.classList.toggle('hidden')
       // })
-
-
 
     });
   }
