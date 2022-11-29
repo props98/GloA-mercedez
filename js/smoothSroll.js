@@ -8,6 +8,7 @@
   // Spread Оператор
   const newArray = [...linksHead, mainScroll];
 
+  console.log(seamless);
 
   newArray.forEach(link => {
     link.addEventListener('click', (evt) => {
@@ -15,10 +16,18 @@
 
       const ID = evt.target.getAttribute('href').substr(1);
 
-      document.getElementById(ID).scrollIntoView({
-        behavior: 'smooth',
-        block: 'start'
-      })
+      // document.getElementById(ID).scrollIntoView({
+      //   behavior: 'smooth',
+      //   block: 'start'
+      // })
+
+      //! Кроссбраузенронсть
+      seamless.scrollIntoView(document.getElementById(ID), {
+        behavior: "smooth",
+        block: "start",
+        inline: "center",
+      });
+
     });
   });
 
