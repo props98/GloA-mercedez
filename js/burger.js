@@ -8,8 +8,16 @@
   const toggleMenu = () => {
     menu.classList.toggle('menu-active');
     burger.classList.toggle('humburger-menu-active');
+    menu.style.position = 'fixed';
   };
 
   burger.addEventListener('click', () => toggleMenu());
+
+  // menu.addEventListener('click', (evt) => {
+  //   const evtTarget = evt.target;
+  //   console.log(evtTarget);
+
+
+  // })
 
 }());
