@@ -35,3 +35,15 @@
 * [Switch/Case](https://learn.javascript.ru/switch)
 * [Array/forEach](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 * [Fetch](https://learn.javascript.ru/fetch)
+
+# День 4
+* Отпраака формы, использовали метод fetch, сдлали очистку формы
+> Повторить код за уроком
+### Задачи
+> Запретить отправку формы с пустыми полями или только пробелами
+### Дополнительные ссылки
+* [Switch/Case](https://learn.javascript.ru/switch)
+* [Array.forEach](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+* [Fetch](https://learn.javascript.ru/fetch)
+
+
