@@ -22,3 +22,16 @@
 ### Полезные ссылки
 * [Циклы](https://learn.javascript.ru/while-for#tsikl-while)
 * [Условия](https://learn.javascript.ru/ifelse)
+
+# День 3
+* Скрипт модального окна, открытие/закрытие. Мобильное меню и кнопка бургер
+
+### Задачи
+> Повторить код за уроком
+### Домашняя работа
+> На всех табах при клике на кнопку «Узнать больше» должно открываться модальное окно.
+> При клике на пункты меню, меню должно закрываться.
+### Полезные ссылки
+* [Switch/Case](https://learn.javascript.ru/switch)
+* [Array/forEach](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+* [Fetch](https://learn.javascript.ru/fetch)

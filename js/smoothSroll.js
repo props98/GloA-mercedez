@@ -8,7 +8,7 @@
   // Spread Оператор
   const newArray = [...linksHead, mainScroll];
 
-  console.log(seamless);
+  // console.log(seamless);
 
   newArray.forEach(link => {
     link.addEventListener('click', (evt) => {

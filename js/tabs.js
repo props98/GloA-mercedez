@@ -6,8 +6,6 @@
         tabsContentElems = document.querySelectorAll('[data-tabs-field]'),
         designTitle = document.querySelectorAll('.design__title');
 
-console.log(designTitle);
-
   tabsHandlerElems.forEach((tab, tabIndex) => {
 
     tab.addEventListener('click', () => {
